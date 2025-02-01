@@ -47,5 +47,16 @@
   2.4.1 Isolation forest
 
 3. Semi-supervised learning
+ 3.1 Self-training 
+ 3.2 Co-Training
+ 3.3 Label propagation
 
 4. Reinforcement ML
+ 4.1 Value based methods 
+  4.1.1 Q-Learning
+  4.1.2 SARSA
+ 4.2 Policy based methods
+  4.2.1 REINFORCE
+  4.2.2 Actor-Critic methods
+ 4.3 Model based reinforcement
+ 4.4 Deep reinforcement learning
