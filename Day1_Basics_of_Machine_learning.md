@@ -15,37 +15,36 @@
 
 ## Types of Machine Learning
 1. Supervised ML
+ 1.1 Regression
+  1.1.1 Linear regression
+  1.1.2 Polynomial regression
+  1.1.3 Support Vector Regression (SVR)
+  1.1.4 Decision tree regression
+  1.1.5 Random forest regression
 
-1.1 Regression
-1.1.1 Linear regression
-1.1.2 Polynomial regression
-1.1.3 Support Vector Regression (SVR)
-1.1.4 Decision tree regression
-1.1.5 Random forest regression
-
-1.2 Classification
-1.2.1 Binary classification
-1.2.2 Multiclass classification
-1.2.3 Multilabel classification
+ 1.2 Classification
+  1.2.1 Binary classification
+  1.2.2 Multiclass classification
+  1.2.3 Multilabel classification
 
 
 2. Unsupervised ML
-2.1 Clustering
-2.1.1 K-means clustering
-2.1.2 Hierarchical clustering
-2.1.3 DBSCAN(Density-Based Spatial Clustering of Appications with Noise)
+ 2.1 Clustering
+  2.1.1 K-means clustering
+  2.1.2 Hierarchical clustering
+  2.1.3 DBSCAN(Density-Based Spatial Clustering of Appications with Noise)
 
-2.2 Dimensionality Reduction
-2.2.1 PCA (Principal Component Analysis)
-2.2.2 t-SNE (t-distributed Stochastic Neighbor Embedding)
+ 2.2 Dimensionality Reduction
+  2.2.1 PCA (Principal Component Analysis)
+  2.2.2 t-SNE (t-distributed Stochastic Neighbor Embedding)
 
-2.3 Association Rule Mining
-2.3.1 Apriori algorithm
-2.3.2 FP-Growth  algorithm
+ 2.3 Association Rule Mining
+  2.3.1 Apriori algorithm
+  2.3.2 FP-Growth  algorithm
 
-2.4 Anamoly Detection
-2.4.1 One-class SVM
-2.4.1 Isolation forest
+ 2.4 Anamoly Detection
+  2.4.1 One-class SVM
+  2.4.1 Isolation forest
 
 3. Semi-supervised learning
 
