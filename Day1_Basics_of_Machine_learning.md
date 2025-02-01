@@ -15,12 +15,12 @@
 
 ## Types of Machine Learning
 1. Supervised ML
- 1.1 Regression
-  1.1.1 Linear regression
-  1.1.2 Polynomial regression
-  1.1.3 Support Vector Regression (SVR)
-  1.1.4 Decision tree regression
-  1.1.5 Random forest regression
+ 1. Regression
+  1. Linear regression
+  2. Polynomial regression
+  3. Support Vector Regression (SVR)
+  4. Decision tree regression
+  5. Random forest regression
 
  1.2 Classification
   1.2.1 Binary classification
