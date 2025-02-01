@@ -16,47 +16,47 @@
 ## Types of Machine Learning
 1. Supervised ML
  - Regression
-  - Linear regression
-  - Polynomial regression
-  - Support Vector Regression (SVR)
-  - Decision tree regression
-  - Random forest regression
+   - Linear regression
+   - Polynomial regression
+   - Support Vector Regression (SVR)
+   - Decision tree regression
+   - Random forest regression
 
- 1.2 Classification
-  1.2.1 Binary classification
-  1.2.2 Multiclass classification
-  1.2.3 Multilabel classification
+ - Classification
+   - Binary classification
+   - Multiclass classification
+   - Multilabel classification
 
 
 2. Unsupervised ML
- 2.1 Clustering
-  2.1.1 K-means clustering
-  2.1.2 Hierarchical clustering
-  2.1.3 DBSCAN(Density-Based Spatial Clustering of Appications with Noise)
+ - Clustering
+   - K-means clustering
+   - Hierarchical clustering
+   - DBSCAN(Density-Based Spatial Clustering of Appications with Noise)
 
- 2.2 Dimensionality Reduction
-  2.2.1 PCA (Principal Component Analysis)
-  2.2.2 t-SNE (t-distributed Stochastic Neighbor Embedding)
+ - Dimensionality Reduction
+   - PCA (Principal Component Analysis)
+   - t-SNE (t-distributed Stochastic Neighbor Embedding)
 
- 2.3 Association Rule Mining
-  2.3.1 Apriori algorithm
-  2.3.2 FP-Growth  algorithm
+ - Association Rule Mining
+   - Apriori algorithm
+   - FP-Growth  algorithm
 
- 2.4 Anamoly Detection
-  2.4.1 One-class SVM
-  2.4.1 Isolation forest
+ - Anamoly Detection
+   - One-class SVM
+   - Isolation forest
 
 3. Semi-supervised learning
- 3.1 Self-training 
- 3.2 Co-Training
- 3.3 Label propagation
+ - Self-training 
+ - Co-Training
+ - Label propagation
 
 4. Reinforcement ML
- 4.1 Value based methods 
-  4.1.1 Q-Learning
-  4.1.2 SARSA
- 4.2 Policy based methods
-  4.2.1 REINFORCE
-  4.2.2 Actor-Critic methods
- 4.3 Model based reinforcement
- 4.4 Deep reinforcement learning
+ - Value based methods 
+   - Q-Learning
+   - SARSA
+ - Policy based methods
+   -  REINFORCE
+   - Actor-Critic methods
+ - Model based reinforcement
+ - Deep reinforcement learning
